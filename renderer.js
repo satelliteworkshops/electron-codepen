@@ -7,7 +7,7 @@ var sketch = Sketch.create(),
     dt = 1,
     opt = {
       total: 0,
-      count: 100,
+      count: 4,
       spacing: 2,
       speed: 65,
       scale: 1,
